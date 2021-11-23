@@ -20,3 +20,6 @@
 - 📫 How to reach me: denglelaibh@gamil.com
 - 😄 Pronouns: Optimistic, Outgoing
 
+BDCI 2021
+jubensha - A: 22/545, B: 22/542
+kefu summary - A: 30/78, B:28/81
