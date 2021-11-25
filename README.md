@@ -22,6 +22,6 @@
 
 BDCI 2021
 
-jubensha - A: 22/545, B: 22/542
+jubensha - A: 20/545, B: 20/542
 
 kefu summary - A: 30/78, B:28/81
