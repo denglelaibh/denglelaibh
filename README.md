@@ -5,7 +5,7 @@
 -->
 
 
-- 🔭 I’m currently working on Natural Language Processing(NLP), Computer Vision and Speech related
+- 🔭 I’m currently working on Natural Language Processing(NLP), Computer Vision and Speech, Music related
 - 🌱 I’m currently learning Kaggle Competition, Chatbot related
 
 - 💬 Ask me about NLU, NLG
